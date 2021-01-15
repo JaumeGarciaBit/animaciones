@@ -1,0 +1,7 @@
+{
+  "name": "animaciones",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
